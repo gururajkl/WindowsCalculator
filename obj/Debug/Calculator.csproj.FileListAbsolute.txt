@@ -1,0 +1,37 @@
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\View\CalculatorWindow.baml
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\View\CalculatorWindow.g.cs
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\App.g.cs
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\bin\Debug\Calculator.exe
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.exe
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\App.baml
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ee212551\Documents\Visual Studio 2012\Projects\Rough\Rough\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\bin\Debug\Calculator.application
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\bin\Debug\Calculator.exe
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\App.baml
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\View\CalculatorWindow.g.cs
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\App.g.cs
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\View\CalculatorWindow.baml
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.application
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.exe
+C:\Users\ee212551\OneDrive - Sasken Technologies Ltd\WPF\Calculator\obj\Debug\Calculator.pdb
